@@ -3,9 +3,13 @@ ATM system has front-end and back-end, where the front-end is the ATM and back-e
 
 # Data
 date: from January to April;
+
 time: 1440 observations, since one day has 1440 minutes;
+
 tran_amount: transaction amount in one minute;
+
 success_rate: rate of success rate and total amount of transaction;
+
 response_time: mean response time of transaction in 1e-3 second.
 
 # Reference
